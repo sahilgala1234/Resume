@@ -2,7 +2,8 @@
 This is a resume builder application where you can enter you details and download your resume.
 It is built using react and node js
 <hr>
-![image](https://user-images.githubusercontent.com/100221488/200229237-a3d72054-e317-477d-aa91-a09d8a2f20fc.png)
+![image](https://user-images.githubusercontent.com/100221488/200229606-32579d5e-7646-416c-a350-bfb4decce80e.png)
+
 <hr>
 To run it clone the repository and install the required dependencies 
 <hr>
